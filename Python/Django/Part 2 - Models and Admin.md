@@ -44,5 +44,6 @@
 #django, #tutorial, #python
 
 
-## Previous: [[Django_Part1.md]]
-## Next: [[Django_Part3.md]]
+## Previous: [[Part 1 - Creating a Project]]
+
+## Next: [[Part 3 - Views and URLs]]

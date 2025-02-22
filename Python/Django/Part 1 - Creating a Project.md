@@ -25,6 +25,6 @@
 - Every Django project needs this structure. You’ll build apps (like `polls`) inside it.
 
 
-## Next: [[Django_Part2.md]]
+## Next: [[Part 2 - Models and Admin]]
 
 #django, #tutorial, #python
